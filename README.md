@@ -1,20 +1,40 @@
-# Expo Router Example
+# App SQLite
 
-Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native navigation using files in the `app/` directory.
+Um projeto simples que demonstra o uso do ´SQLite´ em aplicações mobile.
 
-## 🚀 How to use
+# 📋 Funcionalidades
+
+ - Criação e gerenciamento de banco de dados SQLite
+ - CRUD 
+ - Exemplo prático de implementação do ´Expo Router´ e ´SQLiteOpenHelper´
+
+# 🛠️ Tecnologias Utilizadas
+ 
+ - TypeScript
+ - React Native
+ - Node
+ - SQLite
+ - Expo
+ - Vs Code
+
+## 🚀 Como rodar na sua máquina
+
+ 1. Clone o repositório
+ 2. Abra o projeto no VS Code
+ 3. Ctrl + J e digite:
 
 ```sh
-npx create-expo-app -e with-router
+npx expo start
 ```
 
-## Deploy
+## ✏️ Créditos
 
-Deploy on all platforms with Expo Application Services (EAS).
+Idealizado e instruído pela Professora Eulaliane Gonçalves
+Realizado pelo aluno Pedro Wolski 
 
-- Deploy the website: `npx eas-cli deploy` — [Learn more](https://docs.expo.dev/eas/hosting/get-started/)
-- Deploy on iOS and Android using: `npx eas-cli build` — [Learn more](https://expo.dev/eas)
 
-## 📝 Notes
+## 🔗 Links
 
+- [Expo Documentation](https://docs.expo.dev/)
 - [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
+- [Expo SDK: Downloads](https://expo.dev/go)
