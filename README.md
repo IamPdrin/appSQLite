@@ -30,7 +30,7 @@ npx expo start
 ## ✏️ Créditos
 
 Idealizado e instruído pela Professora Eulaliane Gonçalves
-Realizado pelo aluno Pedro Wolski 
+Realizado pelos alunos ´Pedro Wolski´ e ´Christyan Kawamura´
 
 
 ## 🔗 Links
